@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Button To Next Activity bootcamp</string>
+    <string name="theme">Click Button for show Details</string>
+
+        <string name ="lal">Lalbagh Fort</string>
+        <string name ="pan">Panam City</string>
+        <string name ="mah">Mahansthangarh</string>
+        <string name ="shattt">Shat Gambuj Mosque</string>
+        <string name ="mai">Mainamati</string>
+
+
+    <string name="lalbag">
+        The 17th century Mughal fort which stands by the Buriganga River is one of the oldest architecture of Bangladesh. It was built by the then Mughal Subahdar Muhammad Azam Shah, son of Emperor Aurangzeb. It is believed that the construction of the fort was never completed.
+
+The fort consists of 3 frameworks – (i) ‘Diwan-I-Aam’ which was the residence of the Governor, (ii) a mosque and (iii) the tomb of Bibi Pari who was the daughter of Emperor Saista Khan.
+
+Interestingly, there are some mysteries around this fort. There are tunnels underneath the fort which lead to the other side of the river. During the Sepoy Revolution of 1857, many soldiers tried to flee through those tunnels and died. Few British soldiers who followed them there, did not return. In fact, to investigate the situation, the researchers sent an elephant and a dog to those tunnels who didn’t come back as well. Soon after that horrific incident, the path was sealed.
+    </string>
+    <string name="Panam">The city is located in Sonargaon of Narayanganj, just beside the capital, Dhaka. The ancient architecture of Mughal period is found here. Baro-Bhuiyans used to rule here. It was within the capital in that time. As a capital, Sonargaon was enriched with architectural beauties. Numerous British Colonial monuments and forts are seen across this 20km area.
+
+It is one of the most visited tourist spots in Bangladesh.</string>
+    <string name="Mahansthangarh">This place lies in a village of Bogra district called ‘Mahasthan.’ ‘Garh’ means fort, so ‘Mahasthangarh’ means fort of Mahasthan.
+
+Francis Buchanan Hamilton, a Physician, first discovered this place in 1808. However, he made some significant contributions as a Geographer during his stay in Indian subcontinent. It is the last remaining piece of a village ‘Pundranagara’ of that time. The village was alive until the 8th century AD.
+
+This area is now preserved with nice natural hilly look to enjoy leisure. People from everywhere come to spend some quiet time here with natural serenity.</string>
+    <string name="Shat">Shat Gambuj Masjid or the Sixty Dome Mosque resides in the city of mosque, Bagerhat of Khulna division. It’s the largest mosque in Bangladesh and registered under the UNESCO World Heritage Site.
+
+Prior to that Saint General Khan Jahan Ali introduced a Muslim Colony at the middle of 15th century and started building numerous mosques. Eventually, this mosque was started building in 1442 and completed by 1459.
+
+A tower is there on each side and 77 low domes are surrounded within those. There are also 60 stoned pillars to support the roof. Along with that there is system for enough ventilation and light which gives a sound feeling.
+
+This mosque is considered the best archeological sign of the subcontinent of that time.</string>
+   <string name="Mainamati">It is the extinct Buddhist religious site in the district of Comilla. It serves a beautiful colonial cemetery as Comilla Cantonment is nearby. The Mainamati Cemetery is a historical memorial with about thousands of graves from Second World War.
+
+Mainamati was the name of a Chandra Queen, mother of Govindachandra who was a ruler of Chandra dynasty. Between the 10th and 11th century, they ruled the Samatata division of Bengal. Currently, this is the part of Comilla, 114 km away from the capital, Dhaka. They used this place to perform their religious activities.</string>
+
+</resources>
